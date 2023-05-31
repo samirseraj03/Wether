@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Salt",
+        "temp": "14.71",
+        "lon": "2.7928",
+        "lat": "41.9749",
+        "weather": "Clear",
+        "icon": "01d"
+    },
+    {
+        "name": "Girona",
+        "temp": "14.9",
+        "lon": "2.8249",
+        "lat": "41.9831",
+        "weather": "Clear",
+        "icon": "01d"
+    },
+    {
+        "name": "Quart",
+        "temp": "13.64",
+        "lon": "2.8818",
+        "lat": "41.9518",
+        "weather": "Clear",
+        "icon": "01d"
+    },
+    {
+        "name": "Banyoles",
+        "temp": "14.59",
+        "lon": "2.7667",
+        "lat": "42.1167",
+        "weather": "Clear",
+        "icon": "01d"
+    },
+    {
+        "name": "Sant Cugat del Vall\u00e8s",
+        "temp": "15.32",
+        "lon": "2.0833",
+        "lat": "41.4667",
+        "weather": "Clear",
+        "icon": "01d"
+    },
+    {
+        "name": "Barcelona",
+        "temp": "16.26",
+        "lon": "2.159",
+        "lat": "41.3888",
+        "weather": "Clouds",
+        "icon": "02d"
+    },
+    {
+        "name": "Matar\u00f3",
+        "temp": "16.12",
+        "lon": "2.4445",
+        "lat": "41.5421",
+        "weather": "Clear",
+        "icon": "01d"
+    },
+    {
+        "name": "Badalona",
+        "temp": "16.27",
+        "lon": "2.2474",
+        "lat": "41.45",
+        "weather": "Clear",
+        "icon": "01d"
+    },
+    {
+        "name": "la Bordeta",
+        "temp": "16.37",
+        "lon": "2.1374",
+        "lat": "41.3691",
+        "weather": "Clouds",
+        "icon": "02d"
+    },
+    {
+        "name": "Lleida",
+        "temp": "11.41",
+        "lon": "0.6167",
+        "lat": "41.6167",
+        "weather": "Clear",
+        "icon": "01d"
+    },
+    {
+        "name": "Alpicat",
+        "temp": "12.02",
+        "lon": "0.5556",
+        "lat": "41.6657",
+        "weather": "Clear",
+        "icon": "01d"
+    },
+    {
+        "name": "Torrefarrera",
+        "temp": "12.1",
+        "lon": "0.6067",
+        "lat": "41.6732",
+        "weather": "Clear",
+        "icon": "01d"
+    },
+    {
+        "name": "Tarragona",
+        "temp": "15.64",
+        "lon": "1.249",
+        "lat": "41.129",
+        "weather": "Clear",
+        "icon": "01d"
+    },
+    {
+        "name": "Reus",
+        "temp": "15.2",
+        "lon": "1.1069",
+        "lat": "41.1561",
+        "weather": "Clear",
+        "icon": "01d"
+    },
+    {
+        "name": "La Canonja",
+        "temp": "15.88",
+        "lon": "1.1807",
+        "lat": "41.1211",
+        "weather": "Clear",
+        "icon": "01d"
+    },
+    {
+        "name": "Mont-roig",
+        "temp": "10.45",
+        "lon": "1.1833",
+        "lat": "41.75",
+        "weather": "Clear",
+        "icon": "01d"
+    }
+]
